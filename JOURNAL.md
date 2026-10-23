@@ -47,8 +47,8 @@
 **0.5h**
 
 I was going to include this in the timelapses but I couldn't because I lost the time when I forgot to play the timelapse. I also found some more footprints online like the foot print for the RGB lights but I need to change it because it is on the wrong side of the PCB.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/358bfc77d684b8287aca9b80890d7be94c9ed47e40785345e0d06b09f53b6a21.png)
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/6f32fd033ea2f0257690fb18d7803ceefebd5ff5b18b3c7162856452e0235d96.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/358bfc77d684b8287aca9b80890d7be94c9ed47e40785345e0d06b09f53b6a21.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/6f32fd033ea2f0257690fb18d7803ceefebd5ff5b18b3c7162856452e0235d96.png)
 
 ### 2026-10-20 – Work session
 
@@ -79,8 +79,8 @@ I was going to include this in the timelapses but I couldn't because I lost the 
 **1h**
 
 for reason this wasn't captured on the timelapse so I'm adding it manually. I traced out the imported shape on the canvas to match the SVG to make a sketch with the fit point spline tool and then extruded it. This took quite a lot o f tries as I kept Clicking cancel on accident where I wanted to end the line. This is only part of the bit where etch the logo so there will be a timelapse continuing this.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/0d2e2d4c779c04c74c98e53a47db58c6a608353233d0833f6ebdb2b122886fea.png)
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/ff1e33262aec171be27c8dee681972ee6510c4f0bc07ecddf07a5f38c7d9ff9c.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/0d2e2d4c779c04c74c98e53a47db58c6a608353233d0833f6ebdb2b122886fea.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/ff1e33262aec171be27c8dee681972ee6510c4f0bc07ecddf07a5f38c7d9ff9c.png)
 
 ### 2026-10-22 – Work session
 
@@ -93,9 +93,9 @@ for reason this wasn't captured on the timelapse so I'm adding it manually. I tr
 **0.3h**
 
 Redoing some parts of the BOM: finding cheaper LEDs, cheaper MCU, adding a charging module and battery. I made the decision to battery power mine with a 3 pin rocker switch that I already had, but I will have to buy the LEDs myself.
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/f53f02ee0ecc05bdddf727ac2f81ea0cf238a17515c1716abb9a3aa041eeab4f.png)
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/d129c464709a174018d4f4440828b16ce014b1bf6d881afd3f6c1dc4785f3bd0.png)
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/0ff8eb97d338d71a797ebdb1da9122cee5b6de5d197d9afeb09799118216cb28.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/f53f02ee0ecc05bdddf727ac2f81ea0cf238a17515c1716abb9a3aa041eeab4f.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/d129c464709a174018d4f4440828b16ce014b1bf6d881afd3f6c1dc4785f3bd0.png)
+![image](https://halflife.hackclub-assets.com/sessions/Cje65dTwYzJMER3ofeUMaFqZvNMn75Ry/0ff8eb97d338d71a797ebdb1da9122cee5b6de5d197d9afeb09799118216cb28.png)
 
 ### 2026-10-22 – Work session
 
