@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"D1,D2,D3,D4,D5,D6","6","LED","","","","","${EXCLUDE_FROM_POS_FILES}","marbastlib-mx:LED_MX_6028R","https://www.lcsc.com/datasheet/C5149201.pdf"
+"D7,D8,D9,D10,D11,D12","6","D","","","","","${EXCLUDE_FROM_POS_FILES}","Diode_SMD:D_SOD-123",""
+"J1","1","Conn_01x07_Pin","","","","","${EXCLUDE_FROM_POS_FILES}","Crypto:Capacitive_PADS_7_25mm",""
+"SW1,SW2,SW3,SW4,SW5,SW6","6","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","marbastlib-mx:SW_MX_HS_CPG151101S11_1u",""
+"SW7","1","RotaryEncoder_Switch","","","","","${EXCLUDE_FROM_POS_FILES}","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",""
+"U1","1","Waveshare ESP32-S3-ZERO","","","","","${EXCLUDE_FROM_POS_FILES}","Hackclub Footprints:Waveshare ESP32-S3-Zero",""
