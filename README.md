@@ -5,6 +5,8 @@ This is a project for Half-Life at Hack club. This project's guide was made by [
 I have made my adjustments from the original project like adding more switches, more LEDs, making a themed case and making it battery powered. 
 As I already have the keycaps and rocker switches and I will buy the lights and case myself, I will not include them in the Half-Life BOM, but they will be located in the readme for anyone who wants to make it from scratch. 
 The files will include all 3D models used ( 3D printed parts and separate models online that i used for designing ), KiCad files and firmware. 
+I tried to make as much as I could with the use of LLMs and I almost finished but I had to use AI to code the capacitive touch keys because I couldn't find documentation for that anywhere.
+Everything but the capacitive touch keys section is code written/typed by hand.
 The images below are screenshots of: what the project should look like after finished, PCB 3D models, offboard wired components, KiCad PCB and KiCad schematics in that order.
 <img width="889" height="732" alt="image" src="https://github.com/user-attachments/assets/0255ab69-8e27-477e-b281-6a362f2aa266" />
 <img width="895" height="675" alt="image" src="https://github.com/user-attachments/assets/6ad5198b-f910-4654-b9a8-92dd590c8d26" />
